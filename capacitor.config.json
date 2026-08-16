@@ -1,8 +1,0 @@
-{
-  "appId": "com.ironforge.app",
-  "appName": "IRONFORGE",
-  "webDir": "www",
-  "android": {
-    "backgroundColor": "#08090c"
-  }
-}
